@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+workdir/
+/audio/
+/clips/
+*.mp3
+*.m4a
+*.flac
+*.wav
+report.json
+*.log

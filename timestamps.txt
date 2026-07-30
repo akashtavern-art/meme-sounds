@@ -1,0 +1,4 @@
+# Add timestamp entries in: MM:SS Clip Name
+# Example:
+# 00:00 Surprised
+# 00:08 hot hot hot
