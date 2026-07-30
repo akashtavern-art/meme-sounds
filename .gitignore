@@ -9,3 +9,5 @@ workdir/
 *.wav
 report.json
 *.log
+!meme_audios/
+!meme_audios/*.mp3
